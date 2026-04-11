@@ -3,7 +3,7 @@ const portals = [
     {
         id: 1,
         name: 'CDN门户',
-        url: './cdn-portal/index.html',
+        url: '/cdn-portal/index.html',
         description: '一个基于Vue 3 + Vite + Element Plus + Axios的现代化CDN门户网站。',
         category: 'social',
         categoryName: '社交媒体',
