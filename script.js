@@ -7,25 +7,25 @@ const portals = [
         description: '一个基于Vue 3 + Vite + Element Plus + Axios的现代化CDN门户网站。',
         category: 'social',
         categoryName: '社交媒体',
-        image: 'https://api.uomg.com/api/screenshot?url=https://weixin.qq.com&apikey=your_apikey'
+        image: './image/cdn-portal.png'
     },
     {
         id: 2,
-        name: '腾讯视频',
-        url: 'https://v.qq.com',
+        name: '动物图鉴',
+        url: '/animal-world/index.html',
         description: '在线视频平台，提供海量电影、电视剧、综艺、动漫等优质内容',
         category: 'video',
         categoryName: '影音娱乐',
-        image: 'https://api.uomg.com/api/screenshot?url=https://v.qq.com&apikey=your_apikey'
+        image: './image/animals-world.jpg'
     },
     {
         id: 3,
-        name: '知乎',
-        url: 'https://www.zhihu.com',
-        description: '中文互联网高质量问答社区，连接各行业专业人士分享知识',
+        name: '广告公司管理平台',
+        url: '/Advertising_Portal_Website/index.html',
+        description: '企业级广告公司全流程数字化管理平台，基于 Vue3 + Element Plus + Vite 构建。',
         category: 'social',
         categoryName: '社交媒体',
-        image: 'https://api.uomg.com/api/screenshot?url=https://www.zhihu.com&apikey=your_apikey'
+        image: '/image/Advertising_Portal_Website.jpg'
     },
     {
         id: 4,
